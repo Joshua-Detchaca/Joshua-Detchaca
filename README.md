@@ -8,6 +8,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me anything ...
 - 📫 How to reach me: 20210021523@my.xu.edu.ph
+- 💡 Fun Fact: I once hiked up Mount Pulag!
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
